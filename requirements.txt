@@ -65,5 +65,4 @@ trimesh==3.22.1
 ultralytics==8.3.92
 vispy==0.14.1
 webdataset==0.2.86
-# xformers==0.0.29.post3
-# git+https://github.com/facebookresearch/detectron2.git
+git+https://github.com/facebookresearch/detectron2.git
